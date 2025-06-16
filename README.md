@@ -1,5 +1,5 @@
 1. Objective
-This project directly addresses Task 3 by performing a comparative analysis of two object
+This project directly addresses by performing a comparative analysis of two object
 detection models: YOLOv5n (nano) and YOLOv5s (small). The evaluation is conducted on a
 consistent set of 10 images to measure key performance indicators:
 ● Inference Speed: Average time taken to process an image.
