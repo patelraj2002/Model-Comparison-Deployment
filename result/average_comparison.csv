@@ -1,0 +1,4 @@
+Metric,YOLOv5n,YOLOv5s,YOLOv5s/YOLOv5n Ratio
+Average Inference Time (s),0.296783447265625,0.27770304679870605,0.9357093508997429
+Average Detection Count,28.0,37.0,1.3214285714285714
+Average Class Diversity,5.0,5.0,1.0
