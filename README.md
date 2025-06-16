@@ -1,4 +1,3 @@
-Task 3
 1. Objective
 This project directly addresses Task 3 by performing a comparative analysis of two object
 detection models: YOLOv5n (nano) and YOLOv5s (small). The evaluation is conducted on a
